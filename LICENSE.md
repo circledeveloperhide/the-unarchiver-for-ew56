@@ -1,4 +1,4 @@
-
+The Unarchiver for macOS automatic Plugin - duplicate-finder and system-cleanup offers the most advanced The Unarchiver for macOS plugin, with duplicate-finder and system-cleanup.
 
 
 
